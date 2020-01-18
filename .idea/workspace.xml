@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67b820aa-79dc-4f24-a1fe-bf2a6a80cfcd" name="Default Changelist" comment="项目32.0">
+    <list default="true" id="67b820aa-79dc-4f24-a1fe-bf2a6a80cfcd" name="Default Changelist" comment="项目32.0sadasdsadsadsaddasssss">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseAttrInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseAttrValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseCatalog1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseCatalog2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseCatalog3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseSaleAttr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductSaleAttr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductSaleAttrValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/UmsMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/UmsMemberReceiveAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/AttrService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/CatalogService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/SpuService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/UmsMemberService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/MallManageServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-manage-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manage-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-manage-service/src/test/java/com/pg/mall/manage/MallManageServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manage-service/src/test/java/com/pg/mall/manage/MallManageServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-web/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-item-web/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-item-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mall-user/target/" />
     <ignored path="$PROJECT_DIR$/mall-parent/target/" />
@@ -210,7 +187,17 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fastdfs-client-java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fastdfs-client-java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -352,7 +339,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="com.pg.mall.user.BaseTest" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="E:/GIT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PayJsDemo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -619,7 +606,7 @@
       <workItem from="1579249399852" duration="8555000" />
       <workItem from="1579262319317" duration="6873000" />
       <workItem from="1579269485782" duration="10262000" />
-      <workItem from="1579329083803" duration="16138000" />
+      <workItem from="1579329083803" duration="16719000" />
     </task>
     <task id="LOCAL-00001" summary="平哥提交测试">
       <created>1578571086917</created>
@@ -642,7 +629,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579340831884</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="项目32.0sadasdsadsadsad">
+      <created>1579347147230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579347147230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="项目32.0sadasdsadsadsaddasssss">
+      <created>1579347438766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579347438766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -678,7 +679,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195478000" />
+    <option name="totallyTimeSpent" value="196059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -851,7 +852,10 @@
     </ignored-roots>
     <MESSAGE value="平哥提交测试" />
     <MESSAGE value="项目框架2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目框架2.0" />
+    <MESSAGE value="项目32.0" />
+    <MESSAGE value="项目32.0sadasdsadsadsad" />
+    <MESSAGE value="项目32.0sadasdsadsadsaddasssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目32.0sadasdsadsadsaddasssss" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
