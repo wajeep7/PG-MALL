@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+<body>
+    <p th:text="${pgnb}">打底值 扩展标签没值才找他</p>
+
+    <p th:if="1==2">我是存在的</p>
+
+    <!--类似于foreach 前一个为for(STRING I:LIST) TEXT未显示标签-->
+    <p th:each="listMe:${list}" th:text="${listMe}"></p>
+
+    <!--在便利中将集合引用 指向其他标签-->
+<p th:each="str:${list}">
+    <input th:value="${str}" th:text="${str}">
+</p>
+<!--前台传递过来为1  1 在checkbox里为选中状态-->
+    <input type="checkbox" th:checked="${check}=='1'" />
+
+<!--脚本函数-->
+<a th:href="'javascript:a(\''+${pgnb}+'\')'">点我</a>
+<!--支持html自带标签传值-->
+    <a href="javascript:a('abc')">点我123</a>
+
+
+
+<script language="JavaScript">
+    function a(pgnb) {
+        alert("调用a方法"+pgnb)
+    }
+</script>
+
+
+
+</body>
+
+</html>
