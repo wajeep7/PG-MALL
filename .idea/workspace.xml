@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67b820aa-79dc-4f24-a1fe-bf2a6a80cfcd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PG-MALL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/free-mybatis-generator-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gitee_reger_spring_boot_starter_dubbo_1_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mybatis-generator-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSM-DATA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/mall-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseAttrInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseCatalog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseCatalog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseCatalog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseSaleAttr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductSaleAttr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductSaleAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/UmsMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/UmsMemberReceiveAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/AttrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/CatalogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/SpuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/UmsMemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseAttrInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseCatalog1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseCatalog2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseCatalog3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsBaseSaleAttr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductSaleAttr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/PmsProductSaleAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/UmsMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/bean/UmsMemberReceiveAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/AttrService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/CatalogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/SpuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/UmsMemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-api/target/classes/com/pg/mall/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-util/mall-common-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/MallManageServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseAttrInfomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseCatalog1Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseCatalog2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseCatalog3Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseSaleAttrMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsProductInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsProductSaleAttrMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/AttrServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/CatalogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/SpuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/test/java/com/pg/mall/manage/MallManageServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/MallManageWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/AttrController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/CatalogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/SpuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/test/java/com/pg/mall/manage/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/mall-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-util/mall-service-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-user-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-util/mall-web-util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-client-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-client-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-common-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-service/src/main/java/com/pg/mall/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-service/src/main/java/com/pg/mall/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/pom.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/mall-user/target/" />
+    <ignored path="$PROJECT_DIR$/mall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/../pg-sell/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/mall-api/target/" />
+    <ignored path="$PROJECT_DIR$/mall-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/mall-service-util/target/" />
+    <ignored path="$PROJECT_DIR$/mall-web-util/target/" />
+    <ignored path="$PROJECT_DIR$/mall-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/mall-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/mall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/../fastdfs-client-java/target/" />
+    <ignored path="$PROJECT_DIR$/fastdfs-client-java/target/" />
+    <ignored path="$PROJECT_DIR$/mall-item-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="238" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/MALL-GL?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;useSSL=false&amp;serverTimezone=GMT%2B8" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/MALL-GL?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;useSSL=false&amp;serverTimezone=GMT%2B8" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/MALL-GL?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;useSSL=false&amp;serverTimezone=GMT%2B8" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mall-gl: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PG-MALL" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/java/com/pg/mall/item/controller/ItemController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Mybatis Mapper" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="thymeleaf" />
+        <option value="mybatisxml" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sku</find>
+      <find>saleAttrList</find>
+      <find>spuSaleAttr</find>
+      <find>valueSku</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mall-manage-web/src/test/java/com/pg/mall/manage/BaseTest.java" />
+        <option value="$PROJECT_DIR$/fastdfs-client-java/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-common-util/src/main/java/com/pg/mall/MallUploadUtils.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsProductImageMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsProductSaleAttrValueMapper.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductImage.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/AttrService.java" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/AttrController.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsSkuInfoMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsSkuImageMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsSkuSaleAttrValueMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/CatalogController.java" />
+        <option value="$PROJECT_DIR$/mall-common-util/src/main/java/com/pg/mall/utils/MallUploadUtils.java" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/SkuController.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsSkuInfo.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsSkuImage.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsSkuSaleAttrValue.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsSkuAttrValue.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/mall-item-web/src/main/resources/templates/index2..html" />
+        <option value="$PROJECT_DIR$/mall-item-web/src/main/resources/templates/index2.html" />
+        <option value="$PROJECT_DIR$/mall-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-item-web/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsSkuAttrValueMapper.java" />
+        <option value="$PROJECT_DIR$/PSM-DATA.md" />
+        <option value="$PROJECT_DIR$/mall-user-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/test/java/com/pg/mall/manage/upload/uploadTest.java" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/main/resources/tracker.conf" />
+        <option value="$PROJECT_DIR$/mall-common-util/src/main/java/com/pg/mall/constants/UploadConstants.java" />
+        <option value="$PROJECT_DIR$/mall-item-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mall-user-service/src/main/java/com/pg/mall/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/SpuService.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a7934ef3-fdb0-4b61-a065-b4db4c5c0b2a/console_1.sql" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsProductSaleAttrMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/AttrServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/SpuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/resources/Mapper/PmsProductSaleAttrMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-user-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/SpuController.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/resources/mapper/PmsProductSaleAttrMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-service-util/src/main/java/com/pg/mall/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/mall-service-util/src/main/java/com/pg/mall/conf/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/SkuService.java" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/resources/mapper/PmsSkuInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-item-web/src/main/java/com/pg/mall/item/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/mall-item-web/src/main/resources/templates/item.html" />
+        <option value="$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/SkuServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven3.5/apache-maven-3.5.0/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\mavencangkunew1017\shoprepository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="pgnexuspublic" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=remote" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/PG-MALL.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_40.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_40.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_40.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_40.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_40.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_40.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_21_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_24_RELEASE.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-item-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-item-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-item-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-item-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-item-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PG-MALL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PG-MALL" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-item-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="MyBatisLogPluginindexNum" value="6" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="com.pg.mall.user.BaseTest" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-manage-service/src/main/resources/mapper" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16508938" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pg.mall.manage.mapper" />
+      <recent name="com.pg.mall.service" />
+      <recent name="com.pg.mall.bean" />
+      <recent name="com.pg.mall.utils" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pg.mall.user.mapper" />
+      <recent name="com.pg.mall.user.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="com.pg.mall.user.BaseTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pg.mall.user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaWork\PG-MALL\mall-manage-service\src\main\resources\mapper" />
+      <recent name="E:\IdeaWork\PG-MALL\mall-item-web\src\main\resources\templates" />
+      <recent name="E:\IdeaWork\PG-MALL\mall-item-web\src\main\resources\static" />
+      <recent name="E:\IdeaWork\PG-MALL\mall-manage-web\src\main\resources" />
+      <recent name="E:\IdeaWork\PG-MALL\mall-common-util\src\main\java\com\pg\mall\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pg.mall.conf" />
+      <recent name="com.pg.mall.util" />
+      <recent name="com.pg.mall.utils" />
+      <recent name="com.pg.mall.bean" />
+      <recent name="com.pg.mall.user.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaWork\PG-MALL" />
+      <recent name="E:\IdeaWork\PG-MALL\mall-user-service\src\main\resources" />
+      <recent name="E:\IdeaWork\PG-MALL\mall-user\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 18 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.16612554" />
+  </component>
+  <component name="RunManager" selected="JUnit.uploadTest.uploadTest1">
+    <configuration name="uploadTest.uploadTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pg.mall.manage.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pg.mall.manage.upload" />
+      <option name="MAIN_CLASS_NAME" value="com.pg.mall.manage.upload.uploadTest" />
+      <option name="METHOD_NAME" value="uploadTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mall-parent [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map>
+                <entry key="pgnexuspublic" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/mall-parent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="MallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pg.mall.item.MallItemWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pg.mall.manage.MallManageServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pg.mall.manage.MallManageWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pg.mall.user.MallUserServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-user-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pg.mall.user.MallUserWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.uploadTest.uploadTest1" />
+      <item itemvalue="Maven.mall-parent [install]" />
+      <item itemvalue="Spring Boot.MallUserServiceApplication" />
+      <item itemvalue="Spring Boot.MallUserWebApplication" />
+      <item itemvalue="Spring Boot.MallManageServiceApplication" />
+      <item itemvalue="Spring Boot.MallManageWebApplication" />
+      <item itemvalue="Spring Boot.MallItemWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.uploadTest.uploadTest1" />
+        <item itemvalue="Maven.mall-parent [install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67b820aa-79dc-4f24-a1fe-bf2a6a80cfcd" name="Default Changelist" comment="" />
+      <created>1578555329338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578555329338</updated>
+      <workItem from="1578555330579" duration="6771000" />
+      <workItem from="1578563602796" duration="8135000" />
+      <workItem from="1578585158124" duration="2674000" />
+      <workItem from="1578587871255" duration="2926000" />
+      <workItem from="1578590967709" duration="329000" />
+      <workItem from="1578621708751" duration="278000" />
+      <workItem from="1578622842216" duration="246000" />
+      <workItem from="1578623121017" duration="68000" />
+      <workItem from="1578623224346" duration="1293000" />
+      <workItem from="1578633599967" duration="1534000" />
+      <workItem from="1578635173456" duration="1328000" />
+      <workItem from="1578636543555" duration="2790000" />
+      <workItem from="1578639369681" duration="18467000" />
+      <workItem from="1578676040357" duration="4578000" />
+      <workItem from="1578719617608" duration="8271000" />
+      <workItem from="1578758022768" duration="844000" />
+      <workItem from="1578805532562" duration="17395000" />
+      <workItem from="1578850695553" duration="1464000" />
+      <workItem from="1578889690635" duration="9922000" />
+      <workItem from="1578938318171" duration="5943000" />
+      <workItem from="1578973943288" duration="1113000" />
+      <workItem from="1579010214322" duration="1892000" />
+      <workItem from="1579012135976" duration="9392000" />
+      <workItem from="1579022602442" duration="12000" />
+      <workItem from="1579034742529" duration="5228000" />
+      <workItem from="1579072324442" duration="20890000" />
+      <workItem from="1579158807121" duration="3522000" />
+      <workItem from="1579164240517" duration="8962000" />
+      <workItem from="1579176343137" duration="111000" />
+      <workItem from="1579176503959" duration="64000" />
+      <workItem from="1579176856003" duration="6773000" />
+      <workItem from="1579189009555" duration="435000" />
+      <workItem from="1579249399852" duration="8555000" />
+      <workItem from="1579262319317" duration="6873000" />
+      <workItem from="1579269485782" duration="10262000" />
+      <workItem from="1579329083803" duration="11163000" />
+    </task>
+    <task id="LOCAL-00001" summary="平哥提交测试">
+      <created>1578571086917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578571086917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="项目框架2.0">
+      <created>1578719951312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578719951312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 20h 48m 20s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 20h 50m 35s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 20h 52m 45s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 21h 06m 14s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 21h 07m 16s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 21h 09m 11s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 21h 15m 42s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 21h 17m 39s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.16 at 21h 29m 50s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="uploadTest_uploadTest1 - 2020.01.17 at 21h 10m 01s.xml">
+      <configuration name="uploadTest.uploadTest1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190503000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48027843" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" sideWeight="0.52099234" side_tool="true" weight="0.18763326" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" sideWeight="0.50054646" side_tool="true" weight="0.2497332" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.52099234" side_tool="true" weight="0.18763326" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Web" order="8" sideWeight="0.51972157" side_tool="true" weight="0.18763326" />
+      <window_info anchor="bottom" id="Duplicates" order="0" weight="0.32996634" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32714617" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49573562" weight="0.69489557" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49946696" weight="0.8271462" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49413645" weight="0.6334107" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49733475" weight="0.32946634" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32830626" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2262181" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50586355" side_tool="true" weight="0.63573086" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" sideWeight="0.49946696" weight="0.31090486" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32714617" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32830626" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" weight="0.32830626" />
+      <window_info anchor="bottom" id="Version Control" order="17" weight="0.61832947" />
+      <window_info anchor="bottom" id="Messages" order="18" sideWeight="0.4994664" weight="0.24709977" />
+      <window_info anchor="bottom" id="Tail" order="19" />
+      <window_info anchor="bottom" id="Sequence" order="20" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
+      <window_info anchor="bottom" id="REST Services" order="23" weight="0.338945" />
+      <window_info anchor="bottom" x="820" y="217" width="454" height="448" id="REST Client" maximized="true" order="24" sideWeight="0.5308642" weight="0.4792368" />
+      <window_info anchor="bottom" id="Inspection Results" order="25" weight="0.32996634" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="26" weight="0.32830626" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.2489339" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3326226" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3251599" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" weight="0.32889125" />
+      <window_info anchor="right" id="BPMNPalette" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" x="517" y="74" width="885" height="891" id="RestServices" order="11" weight="0.71695095" />
+      <window_info anchor="right" id="Bean Validation" order="12" sideWeight="0.4983165" weight="0.32889125" />
+      <window_info anchor="right" id="Redis Servers" order="13" />
+      <window_info anchor="right" id="Word Book" order="14" sideWeight="0.5016835" side_tool="true" weight="0.32942432" />
+      <window_info anchor="right" id="Mybatis datasource" order="15" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="16" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48027843" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" sideWeight="0.52099234" side_tool="true" weight="0.18763326" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" sideWeight="0.50054646" side_tool="true" weight="0.2497332" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.52099234" side_tool="true" weight="0.18763326" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Web" order="8" sideWeight="0.51972157" side_tool="true" weight="0.18763326" />
+      <window_info anchor="bottom" id="Duplicates" order="0" weight="0.32996634" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32714617" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49573562" weight="0.69489557" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49946696" weight="0.8271462" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49413645" weight="0.31322506" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49733475" weight="0.32946634" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32830626" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2262181" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50586355" side_tool="true" weight="0.63573086" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" sideWeight="0.49946696" weight="0.31090486" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32714617" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32830626" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" weight="0.32830626" />
+      <window_info anchor="bottom" id="Version Control" order="17" weight="0.61832947" />
+      <window_info anchor="bottom" id="Messages" order="18" sideWeight="0.4994664" weight="0.24709977" />
+      <window_info anchor="bottom" id="Tail" order="19" />
+      <window_info anchor="bottom" id="Sequence" order="20" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="21" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="22" />
+      <window_info anchor="bottom" id="REST Services" order="23" weight="0.338945" />
+      <window_info anchor="bottom" x="820" y="217" width="454" height="448" id="REST Client" maximized="true" order="24" sideWeight="0.5308642" weight="0.4792368" />
+      <window_info anchor="bottom" id="Inspection Results" order="25" weight="0.32996634" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="26" weight="0.32830626" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.2489339" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3326226" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3251599" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" weight="0.32889125" />
+      <window_info anchor="right" id="BPMNPalette" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" x="517" y="74" width="885" height="891" id="RestServices" order="11" weight="0.71695095" />
+      <window_info anchor="right" id="Bean Validation" order="12" sideWeight="0.4983165" weight="0.32889125" />
+      <window_info anchor="right" id="Redis Servers" order="13" />
+      <window_info anchor="right" id="Word Book" order="14" sideWeight="0.5016835" side_tool="true" weight="0.32942432" />
+      <window_info anchor="right" id="Mybatis datasource" order="15" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="16" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Mybatis-PageHelper" />
+    </ignored-roots>
+    <MESSAGE value="平哥提交测试" />
+    <MESSAGE value="项目框架2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目框架2.0" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PG_MALL$MallManageWebApplication.ic" NAME="MallManageWebApplication Coverage Results" MODIFIED="1578939738810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/PG_MALL$MallManageServiceApplication.ic" NAME="MallManageServiceApplication Coverage Results" MODIFIED="1579010629092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseAttrInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsBaseAttrValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="35" column="14" selection-start-line="35" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsSkuInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/AttrController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/SkuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-web/src/main/java/com/pg/mall/manage/controller/SpuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/proxy/javassist/JavassistProxyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/proxy/AbstractProxyInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/config/invoker/DelegateProviderMetaDataInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/protocol/InvokerWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/gitee/reger/spring-boot-starter-dubbo/1.0.10/spring-boot-starter-dubbo-1.0.10.jar!/com/reger/dubbo/rpc/filter/ProceedingJoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/gitee/reger/spring-boot-starter-dubbo/1.0.10/spring-boot-starter-dubbo-1.0.10.jar!/com/reger/dubbo/rpc/filter/ProviderFilterBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/filter/ExceptionFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/monitor/support/MonitorFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/filter/TimeoutFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/filter/TraceFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/filter/ContextFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/filter/GenericFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/filter/ClassLoaderFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/filter/EchoFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#2271#2272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/remoting/transport/DecodeHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/remoting/transport/dispatcher/ChannelEventRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchangeHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="149" column="16" selection-start-line="149" selection-start-column="16" selection-end-line="149" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-util/src/main/java/com/pg/mall/sda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-util/src/main/java/com/pg/mall/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsProductSaleAttrMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/SpuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/SpuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-util/src/main/java/com/pg/mall/conf/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/bean/PmsProductSaleAttr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="38" column="54" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/resources/mapper/PmsProductSaleAttrMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavencangkunew1017/shoprepository/repository/org/springframework/spring-beans/4.3.24.RELEASE/spring-beans-4.3.24.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="1360" column="22" selection-start-line="1360" selection-start-column="22" selection-end-line="1360" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/MallManageServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsBaseAttrInfomMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="19" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/resources/mapper/PmsSkuInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/resources/static/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4508" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/mapper/PmsSkuInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/resources/static/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/resources/static/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/resources/static/scss/shop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1379">
+          <caret line="791" column="24" lean-forward="true" selection-start-line="791" selection-start-column="24" selection-end-line="791" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/resources/templates/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="1067" lean-forward="true" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manage-service/src/main/java/com/pg/mall/manage/service/impl/SkuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="104" column="24" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-api/src/main/java/com/pg/mall/service/SkuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/java/com/pg/mall/item/MallItemWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-item-web/src/main/java/com/pg/mall/item/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.12342569" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (mall-user-service)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mall-service-util</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.12342569" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

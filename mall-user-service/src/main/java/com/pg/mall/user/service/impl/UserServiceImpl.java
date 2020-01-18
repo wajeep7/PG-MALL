@@ -10,6 +10,7 @@ import com.pg.mall.user.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
+
 @Service
 public class UserServiceImpl implements UserService {
 
@@ -31,8 +32,6 @@ public class UserServiceImpl implements UserService {
         // 封装的参数对象
         UmsMemberReceiveAddress umsMemberReceiveAddress = new UmsMemberReceiveAddress();
         umsMemberReceiveAddress.setMemberId(memberId);
-
-
 //        Example example = new Example(UmsMemberReceiveAddress.class);
 //        example.createCriteria().andEqualTo("memberId",memberId);
 //        List<UmsMemberReceiveAddress> umsMemberReceiveAddresses = umsMemberReceiveAddressMapper.selectByExample(example);
