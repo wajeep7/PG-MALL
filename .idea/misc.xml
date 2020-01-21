@@ -20,6 +20,10 @@
         <option value="$PROJECT_DIR$/../fastdfs-client-java/pom.xml" />
         <option value="$PROJECT_DIR$/fastdfs-client-java/pom.xml" />
         <option value="$PROJECT_DIR$/mall-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-redison-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demoss/pom.xml" />
       </list>
     </option>
   </component>

@@ -5,6 +5,7 @@ import com.pg.mall.bean.PmsBaseAttrValue;
 import com.pg.mall.bean.PmsBaseSaleAttr;
 
 import java.util.List;
+import java.util.Set;
 
 public interface AttrService {
 
@@ -52,5 +53,14 @@ public interface AttrService {
     List<PmsBaseSaleAttr> baseSaleAttrList();
 
 
-
+    /**
+     *
+     *
+     * @Description: 属性值去重显示
+     * @Param: [valueIdSet]
+     * @return: java.util.List<com.pg.mall.bean.PmsBaseAttrInfo>
+     * @Author: pg-7
+     * @Date: 2020/1/21
+     */
+    List<PmsBaseAttrInfo> getAttrValueListByValueId(Set<String> valueIdSet);
 }

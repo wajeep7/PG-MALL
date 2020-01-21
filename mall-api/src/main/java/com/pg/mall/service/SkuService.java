@@ -34,4 +34,14 @@ public interface SkuService {
     PmsSkuInfo getSkuById(String skuId);
 
     List<PmsSkuInfo> getSkuSaleAttrValueListBySpu(String productId);
+
+    /**
+     * @Description: 获得所有sku 属性
+     * @Param: [s]
+     * @return: java.util.List<com.pg.mall.bean.PmsSkuInfo>
+     * @Author: pg-7
+     * @Date: 2020/1/21
+     */
+    List<PmsSkuInfo> getAllSku();
+
 }

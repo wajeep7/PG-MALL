@@ -14,7 +14,12 @@ mall-manage-service prot:8072
 mall-manage-web prot:8081
 
 #前台item 
+server.port=8082
 
+
+#service 搜索
+server.port=8073
+server.web = 8083
 
 
 

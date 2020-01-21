@@ -15,6 +15,7 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 /**
  * @program: PG-MALL
@@ -133,6 +134,24 @@ public class AttrServiceImpl implements AttrService {
     @Override
     public List<PmsBaseSaleAttr> baseSaleAttrList() {
         return pmsBaseSaleAttrMapper.selectAll();
+    }
+
+    /**
+     * @param valueIdSet
+     * @Description: 属性值去重显示
+     * @Param: [valueIdSet]
+     * @return: java.util.List<com.pg.mall.bean.PmsBaseAttrInfo>
+     * @Author: pg-7
+     * @Date: 2020/1/21
+     */
+    @Override
+    public List<PmsBaseAttrInfo> getAttrValueListByValueId(Set<String> valueIdSet) {
+        String valueIdStr = StringUtils.join(valueIdSet, ",");//41,45,46
+        List<PmsBaseAttrInfo> pmsBaseAttrInfos = pmsBaseAttrInfomMapper.selectAttrValueListByValueId(valueIdStr);
+        return pmsBaseAttrInfos;
+
+
+
     }
 
 

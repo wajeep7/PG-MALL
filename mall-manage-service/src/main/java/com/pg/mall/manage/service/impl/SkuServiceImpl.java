@@ -149,5 +149,29 @@ public class SkuServiceImpl implements SkuService {
     public List<PmsSkuInfo> getSkuSaleAttrValueListBySpu(String productId) {
         return skuInfoMapper.selectSkuSaleAttrValueListBySpu(productId);    }
 
+    /**
+     * @param
+     * @Description: 获得所有sku 属性
+     * @Param: [s]
+     * @return: java.util.List<com.pg.mall.bean.PmsSkuInfo>
+     * @Author: pg-7
+     * @Date: 2020/1/21
+     */
+    @Override
+    public List<PmsSkuInfo> getAllSku() {
+        List<PmsSkuInfo> pmsSkuInfos = skuInfoMapper.selectAll();
+
+        for (PmsSkuInfo pmsSkuInfo : pmsSkuInfos) {
+            String skuId = pmsSkuInfo.getId();
+
+            PmsSkuAttrValue pmsSkuAttrValue = new PmsSkuAttrValue();
+            pmsSkuAttrValue.setSkuId(skuId);
+            List<PmsSkuAttrValue> select = skuAttrValueMapper.select(pmsSkuAttrValue);
+
+            pmsSkuInfo.setSkuAttrValueList(select);
+        }
+        return pmsSkuInfos;
+    }
+
 
 }
